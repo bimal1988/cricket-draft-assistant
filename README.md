@@ -327,17 +327,4 @@ Make sure every player name in the CSV is unique.
 
 ## License
 
-Add the license you want to use here, for example MIT.
-
-## Contributing
-
-If you plan to make the project public, a good next step would be to add:
-
-- a license file
-- issue templates
-- a pull request template
-- screenshots or a short demo GIF in this README
-
----
-
-This repository now uses **`cricket-draft-assistant`** as the distribution/CLI name and **`cricket_draft_assistant`** as the Python package name, aligning the implementation with the recommended public name.
+Apache License, Version 2.0, (LICENSE-APACHE or https://www.apache.org/licenses/LICENSE-2.0)
