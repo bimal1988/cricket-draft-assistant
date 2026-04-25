@@ -4,21 +4,6 @@ An opponent-aware Streamlit app for drafting balanced cricket teams from a share
 
 It uses deterministic Monte Carlo simulation to recommend picks based on **win probability** and **expected margin versus the opponent**, not just raw player ratings. The app is designed for captain-vs-captain draft formats where each side starts with a captain and alternates picks from the remaining pool.
 
-## Why this name
-
-**Recommended product/app name:** `Cricket Draft Assistant`
-
-**Recommended GitHub repository name:** `cricket-draft-assistant`
-
-Why this is the best fit:
-
-- **Clear immediately** — people can tell what it does without reading a subtitle.
-- **Search-friendly** — strong keyword match for GitHub, Google, and internal team discovery.
-- **Professional** — feels like a real product, not a throwaway script.
-- **Flexible** — still works if the app expands with analytics, save/restore, simulations, or alternate draft modes.
-
-If you want a more brand-like name later, you could use something like **DraftEdge Cricket** publicly while keeping the repo name descriptive.
-
 ## What it does
 
 - Upload a CSV of players with batting and bowling ratings.
@@ -113,7 +98,7 @@ If `uv` is not installed yet, see the official `uv` installation docs for your p
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/bimal1988/cricket-draft-assistant.git
 cd cricket-draft-assistant
 ```
 
